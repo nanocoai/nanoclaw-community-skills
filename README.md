@@ -9,6 +9,7 @@ Community-contributed skills for [NanoClaw](https://github.com/qwibitai/nanoclaw
 | `/add-instacart` | Instacart grocery cart automation via GraphQL API | [@abarbaccia](https://github.com/abarbaccia) |
 | `/add-changedetection` | changedetection.io website monitoring via MCP tools | [@henricook](https://github.com/henricook) |
 | `/add-quad-inbox` | Async file-based task handoff between container agents and host | [@jorgenclaw](https://github.com/jorgenclaw) |
+| `/add-datacircle` | Datacircle's open MCP server: compare GTM APIs by price, score and limits | [@waynehamadi](https://github.com/waynehamadi) |
 
 This repo is a fork of NanoClaw that doubles as a [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) — SKILL.md instructions in `plugins/` and `skill/*` branches with code changes.
 
